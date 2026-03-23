@@ -1,1 +1,5 @@
 print("git clone \"HTTPS link\"")
+print("git add \"file to add\"")
+print("git status")
+print("git commit -m \"commit\"")
+print("git push")
