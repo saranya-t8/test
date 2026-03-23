@@ -1,1 +1,1 @@
-# test
+# Test file for git commands
